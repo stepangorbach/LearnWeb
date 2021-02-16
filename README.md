@@ -16,3 +16,4 @@
 **Полезное**
 1. [HABR](https://habr.com)
 2. [Google](https://google.com)
+3. [School Skills](https://skills.fpmm.ru)
